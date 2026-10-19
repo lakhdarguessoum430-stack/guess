@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GUESSOUM AREZKI</string>
+    <string name="app_subtitle">إدارة ورشات ومشاريع البناء - GUESSOUM AREZKI</string>
+    <string name="projects_title">ورشات البناء</string>
+    <string name="dashboard_title">لوحة التحكم</string>
+    <string name="analytics_title">التحليلات والميزانية</string>
+    <string name="settings_title">الإعدادات والربط</string>
+
+    <!-- Project Statuses matching API schema -->
+    <string name="status_in_progress">جارية</string>
+    <string name="status_completed">مكتملة</string>
+    <string name="status_paused">متوقفة</string>
+    <string name="status_all">الكل</string>
+
+    <!-- Project Details -->
+    <string name="project_name">اسم الورشة / المشروع</string>
+    <string name="project_location">الموقع الجغرافي للورشة</string>
+    <string name="project_budget">الميزانية المرصودة</string>
+    <string name="project_spent">إجمالي المصروفات</string>
+    <string name="project_remaining">المتبقي من الميزانية</string>
+    <string name="project_status">حالة الورشة</string>
+    <string name="project_start_date">تاريخ البدء</string>
+    <string name="new_project">إضافة ورشة جديدة</string>
+    <string name="edit_project">تعديل بيانات الورشة</string>
+    <string name="delete_project">حذف الورشة</string>
+
+    <!-- Expenses and Milestones -->
+    <string name="add_expense">تسجيل دفعة / مصروف</string>
+    <string name="add_milestone">إضافة مرحلة عمل</string>
+    <string name="daily_log">يوميات الموقع والملاحظات</string>
+
+    <!-- Server & Sync -->
+    <string name="server_sync">مزامنة الـ API</string>
+    <string name="server_url">عنوان خادم Express (Node.js)</string>
+    <string name="sync_now">مزامنة الآن</string>
+    <string name="currency_symbol">د.ج</string>
+</resources>

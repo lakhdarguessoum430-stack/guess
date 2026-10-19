@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Construction Building Structure -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M32,74 L32,54 L44,54 L44,74 Z M36,58 L40,58 L40,62 L36,62 Z M36,66 L40,66 L40,70 L36,70 Z" />
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M64,74 L64,48 L76,48 L76,74 Z M68,52 L72,52 L72,56 L68,56 Z M68,60 L72,60 L72,64 L68,64 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M26,74 L82,74 L82,78 L26,78 Z" />
+
+    <!-- Construction Safety Helmet (Hardhat) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,28 C42,28 35,38 35,50 L73,50 C73,38 66,28 54,28 Z" />
+    <!-- Helmet Top Ridge -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M51,28 C51,28 52,38 52,50 L56,50 C56,38 57,28 57,28 Z" />
+    <!-- Helmet Brim -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M30,50 C30,48.9 30.9,48 32,48 L76,48 C77.1,48 78,48.9 78,50 L78,53 C78,54.1 77.1,55 76,55 L32,55 C30.9,55 30,54.1 30,53 Z" />
+</vector>
